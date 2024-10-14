@@ -4,6 +4,6 @@
 
 <img src="https://img.shields.io/badge/hello-curtainch-blue"></img>
 
-　　　　　　[![curtainch GitHub stats](https://github-readme-stats.vercel.app/api?username=curtainch&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![curtainch GitHub stats](https://github-readme-stats.vercel.app/api?username=curtainch&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtainch&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=curtainch)](https://github.com/curtainch/github-profile-trophy)
